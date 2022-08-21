@@ -11,8 +11,11 @@
     "build": "webpack --mode=production"
   },
   "keywords": [
-    "are",
-    "media"
+    "snj",
+    "adhikari",
+    "njw",
+    "webpack",
+    "setup"
   ],
   "author": "Sanjay Adhikari",
   "license": "ISC",
